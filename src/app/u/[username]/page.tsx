@@ -7,7 +7,6 @@ import { useForm } from 'react-hook-form';
 import { Loader2, Send, Sparkles, User, Info } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Separator } from '@/components/ui/separator';
-import { CardHeader, CardContent, Card } from '@/components/ui/card';
 import { useCompletion } from "@ai-sdk/react";
 
 import {
